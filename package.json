@@ -1,0 +1,29 @@
+{
+  "name": "raj-ts",
+  "version": "0.0.1",
+  "description": "Raj written in Typescript",
+  "main": "lib/runtime.js",
+  "files": [
+    "lib"
+  ],
+  "types": "lib/runtime.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrejewski/raj-ts.git"
+  },
+  "author": "Chris Andrejewski <christopher.andrejewski@gmail.com> (http://chrisandrejewski.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrejewski/raj-ts/issues"
+  },
+  "homepage": "https://jew.ski/raj/",
+  "keywords": [
+    "architecture",
+    "elm",
+    "framework",
+    "runtime"
+  ],
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}

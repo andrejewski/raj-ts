@@ -16,7 +16,6 @@
     "strict": true,
     "forceConsistentCasingInFileNames": true,
     "preserveConstEnums": true,
-    "sourceMap": true,
     "declaration": true,
     "lib": ["es2019"],
     "target": "es2019",
